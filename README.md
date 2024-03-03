@@ -1,0 +1,2 @@
+Este es un proyecto básico de HTML. Tras haber completado las lecciones sobre HTML de The Odin Pronect, la idea es poner en práctica
+todo lo aprendido sobre el lenguaje en este repo, y así aprender a como utilizarlo correctamente. 
