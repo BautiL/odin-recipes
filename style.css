@@ -1,0 +1,17 @@
+body{
+    background-color: darkgoldenrod;
+}
+
+h1{
+    text-align: center;
+    font-family: 'lucida console';
+    font-size: 36px;
+    background-color: burlywood;
+}
+
+ul{
+    font-family: 'lucida console';
+    font-size: 24px;
+    background-color: chocolate;
+    color: bisque;
+}
